@@ -1,0 +1,17 @@
+*{
+font-family: poppins;
+color: rgb(8, 8, 37);}
+h2{
+  color: coral ;
+ font-family: 'Bebas Neue', cursive;
+font-size: 40px;
+}
+p{
+    font-size:13px;
+}
+h3{
+    font-size: 47px;
+}
+#HOME{
+height:600px;
+}
